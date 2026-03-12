@@ -12,7 +12,7 @@ import NavBar from "./NavBar"
 
 function App() {
   let a=20,Name="Namratha"
-  const student={"name":"vishnu priya","Age":18,"gender":"Female"}
+  const student={"name":"krishna priya","Age":18,"gender":"Female"}
 
   return (
     <div>
